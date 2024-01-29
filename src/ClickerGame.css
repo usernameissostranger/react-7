@@ -1,0 +1,33 @@
+
+.container {
+    text-align: center;
+    margin-top: 250px;
+}
+  
+.input {
+    margin-right: 10px;
+    padding: 5px;
+}
+  
+.button {
+    padding: 8px 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+  
+.clickCount {
+    font-size: 18px;
+    margin-top: 20px;
+}
+  
+.timer {
+    font-size: 20px;
+    margin-top: 20px;
+}
+  
+.gameOver {
+    font-size: 24px;
+    color: red;
+    margin-top: 20px;
+}
+  
